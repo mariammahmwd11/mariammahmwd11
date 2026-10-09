@@ -56,7 +56,7 @@ I’m passionate about building reliable backend systems and scalable web applic
 ### 🏥 CuraLink
 **Clinic Management System**
 
-A clinic management system built using **Clean Architecture, CQRS, and MediatR**, designed to manage appointments, patients, visits, diagnoses, and prescriptions.
+A healthcare management platform built with ASP.NET Core and .NET 10, featuring appointment booking, Stripe payments, real-time chat and notifications, electronic prescriptions, and role-based access control.
 
 🔗 **Repository:** [CuraLink](https://github.com/mariammahmwd11/CuraLink)
 
