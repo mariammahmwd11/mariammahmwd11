@@ -4,7 +4,7 @@
 
 I’m passionate about building reliable backend systems and scalable web applications. I enjoy solving problems through clean code, software architecture, and modern .NET technologies.
 
-- 🔭 I’m currently working on **[Clinic Management System](https://github.com/mariammahmwd11/ClinicX)**
+- 🔭 I’m currently working on My graduation project 🎓
 - 🌱 I’m currently learning **Advanced C#, Clean Architecture, CQRS, DDD, and Software Architecture**
 - 👯 I’m looking to collaborate on **.NET and Backend Projects**
 - 💡 I’m interested in **Backend Development, System Design, and AI Integration**
@@ -53,29 +53,12 @@ I’m passionate about building reliable backend systems and scalable web applic
 
 # 🚀 Featured Projects
 
-### 🏥 ClinicX
+### 🏥 CuraLink
 **Clinic Management System**
 
 A clinic management system built using **Clean Architecture, CQRS, and MediatR**, designed to manage appointments, patients, visits, diagnoses, and prescriptions.
 
----
-
-### 🏨 Estra7a
-**Hotel Booking System**
-
-A hotel booking application developed during the DEPI program, focusing on booking management and scalable web application development.
-
----
-
-### 📚 BookSAW
-**E-Commerce MVC Application**
-
-ASP.NET Core MVC application with SQL Server, Entity Framework Core, and Stripe payment integration.
-
-
----
-
-
+🔗 **Repository:** [CuraLink](https://github.com/mariammahmwd11/CuraLink)
 
 # 📚 Currently Learning
 
